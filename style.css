@@ -1,0 +1,44 @@
+.navbardesign {
+    padding-left: 30px;
+}
+
+
+
+.MOLO {
+    width: 300px;
+    padding-bottom: 260px;
+}
+
+.navstyle {
+   
+   font-size: 40px; 
+   font-style: bold;  
+   margin-right: 70px;
+}
+
+.welc {
+    text-align: center;
+    padding-top: 90px;
+    font-size: 50px;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.name {
+    text-align: center;
+    min-height: 10vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.p {
+color:white;
+padding-bottom: 250px;
+}
+
+.pp {
+color:white;
+}
