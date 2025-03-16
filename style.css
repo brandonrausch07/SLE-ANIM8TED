@@ -43,8 +43,7 @@
 
 
 .MOLO {
-    width: 300px;
-    padding-bottom: 260px;
+    width: 200px;
 }
 
 .navstyle {
@@ -58,6 +57,12 @@
     text-align: center;
     font-size: 50px;
     color:white;
+}
+
+.welc1 {
+    text-align: center;
+    font-size: 30px;
+    color:rgb(218, 215, 215);
 }
 
 *{
@@ -223,4 +228,9 @@ Make it animate nicely. You'll need CSS3 for this*/
 
 .pad1 {
 	padding-bottom: 80p;
+}
+
+.nav-link {
+	color:#ffffff;
+
 }
