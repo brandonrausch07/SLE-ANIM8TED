@@ -45,11 +45,11 @@ function swapPhoto() {
 
   document.getElementById('photo').src = mImages[mCurrentIndex].img;
   var loc = document.getElementsByClassName('location');
-  loc[0].innerHTML = "Name: " + mImages[mCurrentIndex].location;
+  loc[0].innerHTML = "" + mImages[mCurrentIndex].location;
   var des = document.getElementsByClassName('description');
-  des[0].innerHTML = "Personality: " + mImages[mCurrentIndex].description;
+  des[0].innerHTML = "" + mImages[mCurrentIndex].description;
   var dt = document.getElementsByClassName('date');
-  dt[0].innerHTML = "Voice Actor: " + mImages[mCurrentIndex].date;
+  dt[0].innerHTML = "" + mImages[mCurrentIndex].date;
 
   mLastFrameTime = 0;
   mCurrentIndex += 1;

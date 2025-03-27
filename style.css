@@ -58,18 +58,42 @@
     font-size: 50px;
     color:white;
 }
+.heady {
+	text-align: left;
+	color: white;
+	font-size: 50px;
+}
 
+
+.welc4 {
+	font-family: Poppins;
+    text-align: left;
+    font-size: 20px;
+    color:rgb(153, 153, 153);
+	height: 500px;
+
+}
+
+.welc3 {
+	font-family: Poppins;
+    text-align: left;
+    font-size: 20px;
+    color:rgb(153, 153, 153);
+	height: 240px;
+}
 .welc2 {
+	font-family: Poppins;
     text-align: center;
     font-size: 50px;
-    color:white;
-	height: 500px;
+   background-color: #f1f1f1;
+	height: 300px;
 }
 
 .welc1 {
+	font-family: Poppins;
     text-align: center;
-    font-size: 30px;
-    color:rgb(218, 215, 215);
+    font-size: 20px;
+    color:rgb(143, 137, 137);
 }
 
 *{
